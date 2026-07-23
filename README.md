@@ -23,9 +23,9 @@ A Cisco Packet Tracer network simulation featuring VLANs, Wireless integration, 
 ---
 
 ## 📸 Network Topology Diagram
-![Network Topology](<img width="1920" height="1080" alt="Screenshot (518)" src="https://github.com/user-attachments/assets/17374007-b135-4cf6-8377-59e25b04a297" />
-)
+![Network Topology](topology.png)
 
+<img width="1920" height="1080" alt="Screenshot (518)" src="https://github.com/user-attachments/assets/e808dfb2-1701-4ac9-9371-b4b7bfcf6f25" />
 
 ---
 
